@@ -1,7 +1,26 @@
+
 <!doctype html>
 <html lang="en">
 
 <head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M84JZQJ');
+    </script>
+    <!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ASA</title>
@@ -19,7 +38,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="./style.css?version=7">
+    <link rel="stylesheet" type="text/css" href="./style.css?version=1">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 
@@ -28,6 +47,10 @@
 
 <body>
 
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M84JZQJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <div class="contsiner-fluid" id="session1_wrapper">
         <img class="img-fluid" id="logo" src="https://learn.abundancestockadvisors.com/images/logo.png">
         <p style="color: rgb(244, 235, 235);font-size:90%;">
@@ -35,7 +58,7 @@
             SEBI Reg # INH000004608 <br> RH#1, Sunflower Apts, N.I.B.M.
             Road,
             Pune:411048 <br><i class="fa fa-phone" aria-hidden="true"></i>
-            <a href="./dialerTracking1.php" style="text-decoration: none;color:rgb(244, 235, 235)" > 8380896171 </a> |
+            <a href="./dialerTracking1.php" style="text-decoration: none;color:rgb(244, 235, 235)"> 8380896171 </a> |
             <a href="./dialerTracking2.php " style="text-decoration: none;color:rgb(244, 235, 235)"> 9168092538 </a>
 
 
@@ -63,7 +86,7 @@
                 <h2>How Does It Work ?</h2>
                 <p style="color: rgb(37, 36, 36);padding: 10px;font-weight: 300;padding: 20px;text-align: justify;">We
                     are a 13 year old SEBI registered company with tremendous experience in options trading. Below are
-                    the details of our service. </p>
+                    the details of our service. </p>
             </div>
 
             <ul class="fa-ul" id="listOfHowDoesItWorks">
@@ -168,7 +191,7 @@
                         against our telegram
                         channel where all historical calls will be visible</li>
                     <li style="margin-bottom: 8px;"><i style="color: #0078FF;" class="fa fa-inr fa-li" aria-hidden="true"></i> We can also help you with a detailed past performance sheet</li>
-                    <li style="margin-bottom: 8px;"><i style="color: #0078FF;" class="fa fa-inr fa-li" aria-hidden="true"></i> We've never had a single loss making month so far</li>
+                    <li style="margin-bottom: 8px;"><i style="color: #0078FF;" class="fa fa-inr fa-li" aria-hidden="true"></i> We've never had a single loss making month so far</li>
                 </ul>
             </div>
 
@@ -181,70 +204,70 @@
             <div>
                 <div class="owl-carousel">
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/1.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/1.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/2.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/2.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/3.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/3.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/4.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/4.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/5.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/5.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/6.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/6.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/7.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/7.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/8.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/8.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/9.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/9.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/10.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/10.png">
                     </div>
 
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/11.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/11.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/12.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/12.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/13.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/13.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/14.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/14.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/15.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/15.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/16.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/16.png">
                     </div>
                     <!-- <div>
-                        <img class="img-fluid" src="./images/fwdfilter/17.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/17.png">
                     </div> -->
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/18.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/18.png">
                     </div>
                     <!-- <div>
-                        <img class="img-fluid" src="./images/fwdfilter/19.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/19.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/20.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/20.png">
                     </div>
                     <div>
-                        <img class="img-fluid" src="./images/fwdfilter/21.png">
+                        <img class="img-fluid bright" src="./images/fwdfilter/21.png">
                     </div> -->
-   
+
                 </div>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
@@ -253,9 +276,9 @@
                         loop: true,
                         margin: 10,
                         nav: true,
-                        
+
                         autoplay: true,
-                        autoplay: 10000,
+                        autoplay: 1000,
                         smartSpeed: 500,
                         responsive: {
                             0: {
@@ -273,8 +296,17 @@
             </div>
 
 
-            <br>
+      
         </div>
+        
+        <div>
+        <h2 style="font-weight: 700;">Have questions?</h2>
+        <a href="https://api.whatsapp.com/send?phone=918380896171" type="button" class="btn btn-success" style="background-color: #25D366;"><i class="fa fa-whatsapp" aria-hidden="true"></i> Chat Now</a>
+
+        </div>
+        <br>
+        
+
     </div>
 
 
@@ -399,7 +431,7 @@
 
             <div id="contactForm">
 
-                <form action="./form.php" method="POST">
+                <form name="google-sheet" id="form">
                     <div class="mb-3">
                         <label for="name" class="form-label">Name</label>
                         <input type="text" class="form-control" id="name" name="namee">
@@ -409,14 +441,49 @@
                         <input type="number" class="form-control" id="mobileNo" name="mobileNo">
                     </div>
                     <div style="text-align: center;">
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <button type="submit" name="submit" id="submit" class="btn btn-primary">Submit</button>
                     </div>
                 </form>
+				<script type="text/javascript">
+					const scriptURL = 'https://script.google.com/macros/s/AKfycbwD9c6AglVxd2xMgNgm64ny1ECPUCFDX_Ms0Ac3jVMgGUMj1IE1JumiUhwDuhVMr6IT/exec'
+					const form = document.querySelector('#form')
+					const btn = document.querySelector('#submit')
 
+
+					form.addEventListener('submit', e => {
+					  e.preventDefault()
+					  btn.disabled = true
+					  btn.innerHTML = "Loading..."
+
+					  console.log(form)
+					  fetch(
+						scriptURL, 
+						{ 
+							method: 'POST', 
+							body: new FormData(form)
+						}
+						
+						
+						)
+						.then(response => { 
+							  btn.disabled = false
+					  btn.innerHTML = "Submit"
+							alert('Thank You!', response) })
+                            // window.location.replace('https://indexoptions.abundancestockadvisors.com/thankyou.php')
+                            window.location.replace('http://asa.myjigyasa.com/thankyou.php')
+
+						.catch(error => {
+									 btn.disabled = false
+					  btn.innerHTML = "Submit"
+							alert('Error!', error.message)})
+					})
+				</script>
             </div>
         </div>
 
     </div>
+	
+	
 
 
     <!-- Footer -->
@@ -493,6 +560,48 @@
             $(".owl-carousel").owlCarousel();
         });
     </script>
+    
+
+    <!-- This both scripts are not able to update data in google sheets  -->
+    
+
+    <!-- 1 -->
+    <!-- <script>
+
+        const scriptURL = "https://script.google.com/macros/s/AKfycbwD9c6AglVxd2xMgNgm64ny1ECPUCFDX_Ms0Ac3jVMgGUMj1IE1JumiUhwDuhVMr6IT/exec"
+        const form = document.forms['google-sheet']
+        
+        form.addEventListener('submit', (e) => {
+            console.log(new FormData(form))
+            e.preventDefault()
+            fetch(scriptURL, {method : 'POST', body : new FormData(form)})
+            .then(response => alert("Thank You!!!"))
+            .catch(error => console.error("Error", error.message))
+        })
+
+    </script> -->
+
+
+    <!-- 2 -->
+    <!-- <script type="text/javascript">
+        window.addEventListener("DOMContentLoaded", function() {
+            const yourForm = document.getElementById('myForm');
+            yourForm.addEventListener("submit", function(e) {
+                e.preventDefault();
+                const data = new FormData(yourForm);
+                const action = e.target.action;
+                
+                fetch(action, {
+                    method: 'POST',
+                    body: data,
+                }).then(() => {
+                    // window.location.replace('https://www.WEBSITE.com/thank-you')
+                    alert("SUCCESS")
+                })
+            })
+        });
+    </script> -->
+
 </body>
 
 
